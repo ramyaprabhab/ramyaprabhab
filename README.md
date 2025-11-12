@@ -1,67 +1,4 @@
-# Hi 👋, I’m Ramya  
-### Frontend Engineer | React · TypeScript · Tailwind | Turning Coffee into Code ☕→🚀  
-
-> I build sleek, interactive user-interfaces and turn design ideas into real apps.  
-> Currently focused on React, TypeScript, Node.js + API integrations, and creating UI experiences that delight.
-
----
-
-### 🔭 What I’m Working On  
-- Building **CareTrack / PurpleIPD** — a full-stack hospital-management frontend using React + encrypted APIs.  
-- Diving into **design systems**, component libraries and reusable UI patterns for scalable frontend apps.  
-- Writing articles on Medium about frontend challenges: “Why I chose TypeScript”, “Tailwind for scalable UI”, etc.
-
----
-
-### 🔧 Skills & Tools  
-**Frontend:** React, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3  
-**Backend / APIs:** Node.js, Express, REST, JWT Auth, encrypted payloads (AES-GCM)  
-**Other:** React Query (TanStack), Storybook, Framer Motion, Git & GitHub, Responsive Design, Accessibility (a11y)  
-
----
-
-### 💼 Featured Projects  
-| 🎯 Project | Description |
-|-----------|-------------|
-| **CareTrack / PurpleIPD (React + Encrypted API)** | Role-based patient workflows (admission, billing, discharge), dynamic form fields from backend, AES-GCM encrypted communication, localization support, white-labelling. |
-| **Hospital Admission Search Module** | Dynamically generated UI form fields from backend configs, single-field search (phone/name/UHID), results table, built-in delete/clear UX. |
-| **Personal Website / Blog** | Built with React + Tailwind, shares learnings on frontend development, UI/UX patterns, keyboard & music hobbies. |
-| *(Add one more project of your choice here)* | Brief description of it, what you built and what tech you used. |
-
----
-
-### 📄 Blog & Articles  
-I write about my frontend journey and share practical tips:  
-- “Why I stopped memorising JavaScript frameworks and started mastering TypeScript”  
-- “Tailwind CSS for scalable UI: How I structured the design system for my app”  
-*(Link each to your actual articles when live)*
-
----
-
-### 📫 Reach Out  
-- **Email:** ramyaprabha1404@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ramyaprabhab](https://linkedin.com/in/ramyaprabhab)  
-- **Medium:** [medium.com/@ramyaprabhab](https://medium.com/@ramyaprabhab)  
-- **Fun Fact:** I don’t just code — I play keyboard 🎹 and write songs. Creativity fuels my frontend.
-
----
-
-### 📊 GitHub Stats  
-![Ramya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyaprabhab&theme=shadow_red&hide_border=false&include_all_commits=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaprabhab&theme=shadow_red&hide_border=false&count_private=false&layout=compact)
-
----
-
-### ⚡ Quick Note  
-> “Every pixel I place, every line of code I write, is one step closer to making amazing digital experiences.”  
-
----
-
-*Thanks for stopping by — feel free to explore my repos, connect, or say hi!*  
-
-
-
-<!-- <h1 align="center">Hi 👋, I'm Ramya</h1>
+ <h1 align="center">Hi 👋, I'm Ramya</h1>
 <h3 align="center">Frontend Engineer | Turning Coffee into Code ☕→🚀 | React, TypeScript & Tailwind Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaprabhab&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaprabhab" /> </p>
@@ -104,7 +41,7 @@ I write about my frontend journey and share practical tips:
 ![](https://github-contributor-stats.vercel.app/api?username=ramyaprabhab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramyaprabhab&icon=0&color=5)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=ramyaprabhab&icon=0&color=5)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
