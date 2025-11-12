@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ramyaprabha1404@gmail.com**
 
-- ⚡ Fun fact **I can play the keyboard**
+- ⚡ Fun fact **I can play keyboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
