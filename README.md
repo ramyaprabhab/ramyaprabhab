@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaprabhab&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## My Contribution Graph
+### My Contribution Graph
 
 <div align="center">
   <picture>
