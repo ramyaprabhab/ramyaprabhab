@@ -65,10 +65,6 @@ I am passionate about leveraging data to solve real-world problems. My journey i
 
 ### My Stats Graph
 
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" alt="Cyberpunk Animation" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake-dark.svg">    
@@ -77,5 +73,7 @@ I am passionate about leveraging data to solve real-world problems. My journey i
   </picture>
 </div>
 
-
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" alt="Cyberpunk Animation" />
+</div>
 
