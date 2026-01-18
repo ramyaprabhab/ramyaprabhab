@@ -1,10 +1,21 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Ramya!&fontSize=70&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=60&descAlign=50" alt="Header" />
 </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &color=gradient
+  &height=220
+  &section=header
+  &text=Hi,%20I'm%20Ramya!
+  &fontSize=70
+  &fontAlignY=35
+  &fontFamily=Poppins" />
+</div>
 <div align="center">
   <h3> 🧠 Learning in Progress </h3>
   <br/>
+  
   
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
