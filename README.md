@@ -13,7 +13,7 @@
   &fontFamily=Poppins" />
 </div> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20I'm%20Ramya!&fontSize=50&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=40&descAlign=50&fontFamily=Poppins" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20I'm%20Ramya!&fontSize=50&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=30&descAlign=50&fontFamily=Poppins" />
 </div>
 
 
