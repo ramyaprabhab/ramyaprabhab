@@ -35,15 +35,8 @@ I am passionate about leveraging data to solve real-world problems. My journey i
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake.svg">
-  </picture>
-  
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=ramyaprabhab&show_icons=true&theme=radical&hide_border=true" height="160" />
@@ -58,7 +51,7 @@ I am passionate about leveraging data to solve real-world problems. My journey i
   </a>
 </div>
 
-### My Contribution Graph
+### My Stats Graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake-dark.svg">    
