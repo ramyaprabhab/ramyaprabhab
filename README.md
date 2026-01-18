@@ -32,7 +32,7 @@
 
 <br/>
 
-### 👩‍💻 About Me
+### About Me
 I am passionate about leveraging data to solve real-world problems. My journey involves exploring the depths of **Deep Learning**, **Computer Vision**, and **Natural Language Processing**.
 
 * 🔭 **Currently working on:** Building predictive models and analyzing datasets.
