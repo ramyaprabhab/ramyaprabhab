@@ -34,22 +34,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramyaprabhab&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramyaprabhab&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ramyaprabhab&icon=0&color=5)](https://visitcount.itsvg.in) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!---
-ramyaprabhab/ramyaprabhab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## My Contribution Graph
 
