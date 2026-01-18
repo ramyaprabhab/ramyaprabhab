@@ -11,9 +11,7 @@
   <h3> 🧠 Learning in Progress </h3>
   <br/>
 
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="550" alt="Cyberpunk Animation" />
-</div>
+  
   
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
