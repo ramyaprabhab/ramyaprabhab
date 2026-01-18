@@ -11,7 +11,10 @@
   <h3> 🧠 Learning in Progress </h3>
   <br/>
 
-  
+  <div align="center">
+   <img src="./image.gif" width="300" alt="My Animation" />
+  <br/>
+ 
   
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
