@@ -36,9 +36,14 @@ I am passionate about leveraging data to solve real-world problems. My journey i
 ---
 
 ### GitHub Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ramyaprabhab/github-stats-terminal-style/master/github_stats.svg" alt="Terminal Stats" />
+</div>
+
 <div align="center">
   <br/><br/>
-
+  
   <img src="https://github-readme-stats.vercel.app/api?username=ramyaprabhab&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaprabhab&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
@@ -59,3 +64,6 @@ I am passionate about leveraging data to solve real-world problems. My journey i
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+
