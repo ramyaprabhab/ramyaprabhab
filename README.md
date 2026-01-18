@@ -53,8 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 ## My Contribution Graph
 
-## My Contribution Graph
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyaprabhab/ramyaprabhab/output/github-contribution-grid-snake-dark.svg">
