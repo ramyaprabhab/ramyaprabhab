@@ -31,9 +31,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ramyaprabhab&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaprabhab&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramyaprabhab&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
 
 ## My Contribution Graph
 
